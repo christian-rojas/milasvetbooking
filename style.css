@@ -492,6 +492,9 @@ url("img/bg2.webp") 2x);
 	.footer-link{
 		text-align:center;
 	}
+	#booking {
+		padding-bottom: 300px;
+	}
 	
 }
 
